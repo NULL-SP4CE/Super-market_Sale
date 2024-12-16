@@ -104,9 +104,9 @@ FROM super_market
 
 
 ### (5) Finding total gross income on each product by date.
-    -And giving bonus to staff on gross income --> Electronic accessories = 5%, Fashion accessories= 8%,
-    -Food and beverages =5%, Health and beauty =6%, Home and lifestyle=10%, Sports and travel=20%,
-    -also finding final_gross_income(total_gross_income - giving_bonus_to_staff) 
+ -And giving bonus to staff on gross income --> Electronic accessories = 5%, Fashion accessories= 8%,
+ -Food and beverages =5%, Health and beauty =6%, Home and lifestyle=10%, Sports and travel=20%,
+ -also finding final_gross_income(total_gross_income - giving_bonus_to_staff) 
 
 ```WITH CTE_Final_gross AS (
     SELECT 
@@ -158,10 +158,10 @@ FROM super_market
 ```
 
 ### (8) if supermarket gift to customers 
-	-total quanties greater than 5 gift unbrella in mandalay
-	-total quanties greater than 5 gift tote bag in Yangon
-	-total quantites graeter than 3 gift discount cupon in naypyidaw
-	-finding gross income by deducing promption amount(unbreall=3, tote bag=1.5, cupon=0.5).
+-total quanties greater than 5 gift unbrella in mandalay
+-total quanties greater than 5 gift tote bag in Yangon
+-total quantites graeter than 3 gift discount cupon in naypyidaw
+-finding gross income by deducing promption amount(unbreall=3, tote bag=1.5, cupon=0.5).
 
 ```sql
 WITH CTE_gift AS (
