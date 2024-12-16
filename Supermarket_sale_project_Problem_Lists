@@ -1,0 +1,19 @@
+Super-market Sale project Problem Lists
+
+(1) Finding average customer rating of product_line by branch.
+(2) Finding total sale count of all prouct_line by time periods(Morning, Afternoon and evening).
+(3) finding total sale item count by payment type in 2019.
+(4) Finding total sale amount and items on each product line by gender.
+(5) Finding total gross income on each product by date.
+    -And giving bonus to staff on gross income --> Electronic accessories = 5%, Fashion accessories= 8%,
+    -Food and beverages =5%, Health and beauty =6%, Home and lifestyle=10%, Sports and travel=20%,
+    -also finding final_gross_income(total_gross_income - giving_bonus_to_staff).
+(6) Finding total customer and total spent amount on customer type by gender.
+(7) Finding average spend for food on gender by city.
+(8) if supermarket gift to customers 
+    -total quanties greater than 5 gift unbrella in mandalay
+    -total quanties greater than 5 gift tote bag in Yangon
+    -total quantites graeter than 3 gift discount cupon in naypyidaw
+    finding gross income by deducing promption amount(unbreall=3, tote bag=1.5, cupon=0.5).
+(9) Giving customers 10% off who make purchase with Ewallet in Afternoon
+(10) Ranking gross income by highest to lowest
