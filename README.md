@@ -108,7 +108,8 @@ FROM super_market
  -Food and beverages =5%, Health and beauty =6%, Home and lifestyle=10%, Sports and travel=20%,
  -also finding final_gross_income(total_gross_income - giving_bonus_to_staff) 
 
-```WITH CTE_Final_gross AS (
+```sql
+WITH CTE_Final_gross AS (
     SELECT 
         date,
         product_line,
