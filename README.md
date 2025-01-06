@@ -8,7 +8,7 @@ This project involves a comprehensive analysis of Super-market sale data using P
 
 The data for this project is sourced from the Kaggle dataset:
 
-- **Dataset Link:** [Students_mental_health](https://www.kaggle.com/datasets/arunjangir245/super-market-sales)
+- **Dataset Link:** [Super_Market_Sale](https://www.kaggle.com/datasets/arunjangir245/super-market-sales)
 
 ## CREATING_TABLE
 
